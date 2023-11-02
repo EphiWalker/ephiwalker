@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Ephrem Alem, a data analyst with experience in data cleaning & manipulation and EDA using tools such as Python, SQL, and Tableau. This is my portfolio page.
+I am Ephrem Alem, a data analyst with experience in data cleaning, manipulation, and EDA using tools such as Python, SQL, and Tableau. This is my portfolio page.
