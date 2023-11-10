@@ -2,7 +2,7 @@
 
 # Ephrem Alem's Data Analytics Portfolio
 
-Hello! I'm Ephrem Alem, an aspiring Data Analyst with a strong foundation in Python, SQL, and data visualization tools such as Tableau and Power BI. I'm currently pursuing my Bachelor of Science in Computer Science at Montgomery College, Rockville, Maryland.
+I'm Ephrem Alem, an aspiring Data Analyst with a strong foundation in Python, SQL, and data visualization tools such as Tableau and Power BI. I'm currently pursuing my Bachelor of Science in Computer Science at Montgomery College, Rockville, Maryland.
 
 This portfolio is a compilation of notebooks that I created for data analysis or for the exploration of data preprocessing and analytics concepts. A separate section is dedicated to projects, where I solved interesting real-world problems using data.
 
