@@ -13,7 +13,7 @@ This portfolio is a compilation of notebooks that I created for data analysis or
 
 Feel free to contact me on [LinkedIn](https://linkedin.com/in/ephiwalker/) or email me at ephiwalker@gmail.com if you'd like to talk more about my projects!
 
-
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
